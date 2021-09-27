@@ -1,0 +1,8 @@
+.Button {
+  background-color: tomato;
+  color: white;
+  padding: 20px 70px;
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 10%;
+}
